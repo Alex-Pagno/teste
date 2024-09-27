@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Alexandre Pagno 👋
 
 ### Estudante de Sistemas de Informação na UnoChapeco e Product Owner
 
